@@ -1,0 +1,7 @@
+[config]
+name = Republic of Serbia
+path = serbia
+guiname = Republic of Serbia
+author = Sone
+description = This mod adds Serbia as playable country. It is extremly difficult to start with. Which reflects situation of the economy in this European country.
+

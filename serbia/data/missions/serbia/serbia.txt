@@ -1,0 +1,85 @@
+[config]
+currency = "$"
+population = 5725
+economic_cycle_start = 0.4
+min_income = 11921.37
+max_income = 170000
+min_gdp = 85820
+max_gdp = 200000
+wealth_mod = 3.8
+starting_debt = 15884
+name  = serbia
+guiname = "Serbia"
+names_file = "serbia\data\names\serbiannames.txt"
+term_length = 18
+max_terms = 2
+details_image = "Flag_of_Serbia.png"
+description = "Serbia is a sovereign state situated at the crossroads between Central and Southeast Europe, covering the southern part of the Pannonian Plain and the central Balkans. Serbia is landlocked and borders Hungary to the north; Romania and Bulgaria to the east; Macedonia to the south; and Croatia, Bosnia, and Montenegro to the west; it also claims a border with Albania through the disputed territory of Kosovo. The capital of Serbia, Belgrade, is one of the largest cities in Southeast Europe. As of a 2011 census, Serbia (excluding Kosovo) had a total population of 7.2 million."
+flag = "Flag_of_Serbia.png"
+apathy = 0.3
+jobtitle = "President"
+GUID = 8
+
+[options]
+
+[stats]
+Population: = "7,209,764 (2014)"
+Size: = "88,361  sq km"
+Life expectancy: = "74.2 years"
+GDP per capita: = "11921.37"
+Poverty: = "9.1% (2013)"
+Religion: = "Serbian Orthodox 84.6%"
+Obesity Rate: = "24.8% (2008)"
+Unemployment Rate: = "51.1% (2012)"
+Annual Inflation: = "2.3% (2014)"
+Graduation Rate: = "85% (2013)"
+
+[policies]
+CorporationTax = 0.1
+SalesTax = 0.2
+PetrolTax = 0.5
+UnemployedBenefit = 0.15
+StateHealthService = 0.95
+StateSchools = 0.9
+PropertyTax = 0.15
+RailSubsidies = 0.2
+TobaccoTax = 0.5
+StatePensions = 0.3
+InheritanceTax = 0
+AlcoholTax = 0.2
+RaceDiscriminationAct = 0.8
+PollutionControls = 0.3
+Narcotics = 0
+JuryTrial = 0.6
+LegalAid = 0.5
+IncomeTax = 0.1
+ForeignAid = 0.2
+CleanEnergySubsidies = 0.15
+Recycling = 0.25
+ScienceFunding = 0.4
+MilitarySpending = 0.5
+AlcoholLaw = 0.16
+CarTax = 0.4
+Creationism = 0
+MicrogenerationGrants = 0.2
+IDCards = 0.9
+LegaliseProstitution = 0.2
+TechnologyGrants = 0.5
+PoliceForce = 0.8
+CommunityPolicing = 0.2
+ChildBenefit = 0.7
+UniversityGrants = 0.65
+CarEmmissionsLimits = 0.15
+AgricultureSubsidies = 0.25
+OrganicSubsidy = 0.15
+LabourLaws = 0.9
+DisabilityBenefit = 0.7
+MaternityLeave = 0.9
+HandgunLaws = 0.95
+CitizenshipTests = 0.6
+WorkSafetyLaw = 0.9
+PublicLibraries = 0.75
+BorderControls = 0.5
+
+
+
